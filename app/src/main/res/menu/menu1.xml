@@ -6,8 +6,8 @@
     <item android:id="@+id/item_red"
         android:title="배경색 (빨강)"
         />
-    <item android:id="@+id/item_skyblue"
-        android:title="배경색 (하)"
+    <item android:id="@+id/item_yellow"
+        android:title="배경색 (노랑)"
         />
     <item android:title="버튼 회전 >>">
         <menu>
